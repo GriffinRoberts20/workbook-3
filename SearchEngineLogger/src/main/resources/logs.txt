@@ -1,0 +1,21 @@
+2025-04-24 11:23:04 launch
+2025-04-24 11:23:20 search : potato soup
+2025-04-24 11:23:30 search : soup recipe
+2025-04-24 11:23:37 search : best potato
+2025-04-24 11:23:40 exit
+2025-04-24 13:31:32 launch
+2025-04-24 13:31:37 search : who
+2025-04-24 13:31:39 search : what
+2025-04-24 13:31:39 search : how
+2025-04-24 13:31:40 exit
+2025-04-24 13:40:53 launch
+2025-04-24 13:41:01 search : potato again
+2025-04-24 13:41:14 search : i can't see
+2025-04-24 13:41:15 exit
+2025-04-24 13:42:08 launch
+2025-04-24 13:42:22 search : still cant see
+2025-04-24 13:42:57 exit
+2025-04-24 13:45:23 launch
+2025-04-24 13:45:52 search : how about now
+2025-04-24 13:46:13 search : nah
+2025-04-24 13:46:15 exit
